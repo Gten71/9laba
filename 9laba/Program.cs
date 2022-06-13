@@ -15,4 +15,4 @@ foreach (int x in a)
 
     }
 }
-    Console.WriteLine($"Сумма нечетных (отрицательных) чисел = {sum}");
+    Console.WriteLine($"Сумма нечетных отрицательных чисел = {sum}");
